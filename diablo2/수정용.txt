@@ -1,0 +1,22 @@
+tors -> 아머(Armor)
+pole -> 폴암(Polearms)
+scep -> 셉터(Scepters)
+helm -> 헬멧(Helms)
+weap -> 무기(Weapons)
+shld -> 방패(Shields)
+h2h -> 클로(Claws)
+swor -> 칼(Swords)
+axe -> 도끼(Axes)
+hamm -> 해머(Hammers)
+staf -> 스태프(Staves)
+miss -> 원거리 무기(Missile Weapons)
+mace -> 메이스(Maces)
+pala -> 팔라딘 전용방패(Paladin Shields (only))
+mele -> 근접무기(Melee Weapons)
+wand -> 완드(Wand)
+club -> Clubs
+
+아리앗 서밋(arreat summit.)
+*Maces: Maces doesn't mean all Mace class weapons. As the top of the page says: Maces = Mace, Morning Star, Flail, and Exceptional/Elite versions.
+
+스킬: https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt
