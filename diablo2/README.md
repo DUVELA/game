@@ -10,6 +10,6 @@ runes(edit).txt 는 수정파일.<br>
 data\Global\Excel는 만들어 주면됨.
 
 <ul>
-  <li><a href="http://classic.battle.net/diablo2exp/items/runewords.shtml"><strong>룬워드 규칙</strong></a></li>
+  <li><a href="http://classic.battle.net/diablo2exp/items/runewords.shtml"><strong>룬워드 규칙(Rune Word Rules)</strong></a></li>
   <li><a href="https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt">skills</a></li>
 </ul>
