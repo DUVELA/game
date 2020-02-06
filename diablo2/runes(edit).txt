@@ -154,7 +154,7 @@ Runeword151	Unbending Will																																															0
 Runeword152	Valor																																															0
 Runeword153	Vengeance	1		weap									IthAmnEl	r06	r11	r01				crush/lvl	3			swing2/lvl	3			oskill	Taunt	1	1	dex		20	20	charged	Sacrifice	80	14	rep-dur	25							0
 Runeword155	Victory																																															0
-Runeword156	Voice	1		helm										r03	r06					enr		10	10	half-freeze		1	1	balance2		25	25	abs-mag		1	4	charged	Clay Golem	50	10									0
+Runeword156	Voice	1		helm										r03	r06					enr		10	10	half-freeze		1	1	balance2		25	25	abs-mag		1	4	charged	Clay Golem	50	3									0
 Runeword157	Void																																															0
 Runeword158	War																																															0
 Runeword159	Water																																															0
