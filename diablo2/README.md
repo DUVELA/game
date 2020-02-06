@@ -1,3 +1,4 @@
+싱글 PlugY에서 사용하려고 저장하는 파일들.<br>
 runes(origin).txt 는 원본파일.<br>
 runes(edit).txt 는 수정파일.<br>
 
