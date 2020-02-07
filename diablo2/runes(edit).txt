@@ -103,7 +103,7 @@ Runeword59	Ice	1		miss									AmnShaelJahLo	r11	r13	r31	r28			dmg%		140	210	aur
 Runeword60	Infinity	1		pole									BerMalBerIst	r30	r23	r30	r24			dmg%		255	325	move3		35	35	vit/lvl	4			aura	Conviction	12	12	kill-skill	Chain Lightning	50	20	pierce-ltng		45	55	charged	Cyclone Armor	30	21	0
 Runeword61	Innocence																																															0
 Runeword62	Insight	1		pole	staf								RalTirTalSol	r08	r03	r07	r12			dmg%		200	260	att%		180	250	mag%		23	23	oskill	Critical Strike	1	6	cast2		35	35	aura	Meditation	12	17	all-stats		5	5	0
-Runeword63	Jealousy																																															0
+Runeword63	Jealousy	1		circ									SolIoHel	r12	r16	r15				allskills		1	1	res-all		10	10	cast2		10	10	move2		10	10													0
 Runeword64	Judgment																																															0
 Runeword67	Knight's Vigil																																															0
 Runeword69	Last Wish	1		swor	hamm	axe							JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		330	375	att-skill	Charged Bolt	20	20	hit-skill	Life Tap	10	18	gethit-skill	Fade	6	11	crush		40	50	mag%/lvl	4			aura	Might	17	17	0
