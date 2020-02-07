@@ -20,14 +20,14 @@ club -> Clubs
 *Maces: Maces doesn't mean all Mace class weapons. As the top of the page says: Maces = Mace, Morning Star, Flail, and Exceptional/Elite versions.
 
 스킬: https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt
-
+렙당 공속옵션과 그 이후 넣은 옵션이 적용이 안됨.
 
 Runeword97 Pattern - complete
 Runeword106 Plague - complete
 Runeword169 Youth - complete, 아이템 타입, 룬, 룬워드 옵션.
-Runeword153 Vengeance - complete, 룬워드 옵션.
+Runeword153 Vengeance - complete, 공속30, 렙당 강타, 타운트1, 덱스20, 내구력 1 회복 매 4초, 세파 14렙 80차지
 Runeword156 Voice - complete, 에너지 10, 결빙감, 패힛25, 매직 흡수 1-4, 클레이골렘 3렙 50차지.
-Runeword165 Wisdom - complete, TalIth 라이트닝 스킬 2, 힘10, 민10, 생10, 파이어레지33, 공속25
+Runeword165 Wisdom - complete, TalIth, 라이트닝 스킬 2, 힘10, 민10, 생10, 파이어레지33, 공속25
 
 ---1.11의 룬워드를 수정.---
 Runeword8 Bone - 텔포 추가.
