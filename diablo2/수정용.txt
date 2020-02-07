@@ -15,6 +15,7 @@ pala -> 팔라딘 전용방패(Paladin Shields (only))
 mele -> 근접무기(Melee Weapons)
 wand -> 완드(Wand)
 club -> Clubs
+sorc -> Sorceress Orbs
 
 아리앗 서밋(arreat summit.)
 *Maces: Maces doesn't mean all Mace class weapons. As the top of the page says: Maces = Mace, Morning Star, Flail, and Exceptional/Elite versions.
