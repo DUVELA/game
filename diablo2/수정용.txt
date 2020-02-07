@@ -27,6 +27,7 @@ Runeword106 Plague - complete
 Runeword169 Youth - complete, 아이템 타입, 룬, 룬워드 옵션.
 Runeword153 Vengeance - complete, 룬워드 옵션.
 Runeword156 Voice - complete, 룬워드 옵션 추가.
+Runeword165 Wisdom - complete, TalIth 라이트닝 스킬 2, 힘10, 민10, 생10, 파이어레지33, 공속25
 
 ---1.11의 룬워드를 수정.---
 Runeword8 Bone - 텔포 추가.
@@ -36,3 +37,7 @@ Runeword98 Peace - 크리티커스트라이크 2-6 변경, 배우 빠른 달리�
 Runeword117 Rain - 오크세이지 2-6, 셀베이션1.
 Runeword148 Treachery - 결빙감, 마인드블라스트 1.
 ---1.11의 룬워드를 수정.---
+
+---Original Rune Words의 룬워드를 수정.---
+Runeword72 Leaf - 인페르노 -> 인첸트, 아이템 타입 소서오브.
+---Original Rune Words의 룬워드를 수정.---
