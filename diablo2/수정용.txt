@@ -33,7 +33,7 @@ Runeword63 Jealousy - complete, 룬, 1스킬, 10달려, 10패캐, 15모저
 ---1.11의 룬워드를 수정.---
 Runeword8 Bone - 텔포 추가.
 Runeword34 Enlightenment - 파볼 -> 프로스트 노바, (파,콜,라)마스터리 1-2 추가.
-Runeword87 Myth - 하울-> 타운트 확률증가, 스킬탭13 1, 크리티컬 스트라이크 2-6 추가.
+Runeword87 Myth - 하울-> 타운트 확률증가, 렙당 8어레, 크리티컬 스트라이크 2-6 추가.
 Runeword98 Peace - 크리티커스트라이크 2-6 변경, 배우 빠른 달리기/걷기 속도증가 25 추가, 발키리 추가1.
 Runeword117 Rain - 오크세이지 2-6, 셀베이션1.
 Runeword148 Treachery - 결빙감, 마인드블라스트 1.
