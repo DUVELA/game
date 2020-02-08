@@ -26,7 +26,7 @@ sorc -> 소서 오브(Sorceress Orbs)
 Runeword97 Pattern - complete
 Runeword106 Plague - complete
 Runeword169 Youth - complete, 아이템 타입, 룬, 룬워드 옵션.
-Runeword153 Vengeance - complete, 공속30, 렙당 강타, 타운트1, 덱스20, 내구력 1 회복 매 4초, 세파 14렙 80차지
+Runeword153 Vengeance - complete, 공속20, 렙당 강타, 타운트1,상악50 덱스20, 내구력 1 회복 매 4초, 세파 14렙 80차지
 Runeword156 Voice - complete, 에너지 10, 결빙감, 패힛25, 매직 흡수 1-4, 클레이골렘 3렙 50차지.
 Runeword165 Wisdom - complete, TalIth, 라이트닝 스킬 2, 힘10, 민10, 생10, 파이어레지33, 공속25
 Runeword63 Jealousy - complete, 룬, 1스킬, 10달려, 10패캐, 15모저
