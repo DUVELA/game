@@ -5,7 +5,7 @@ C:\Users\i\AppData\Local\VirtualStore\Program Files (x86)\Diablo II\Save
 수정한 경로(PlugY.ini)<br>
 [SAVEPATH]<br>
 ActiveSavePathChange=1<br>
-SavePath=C:\Users\i\Documents\Diablo II\Save
+SavePath=C:\Users\i\Documents\Diablo II\Save 여기 다시 해봐야 겠다.
 <br>
 <br>
 스크린샷.<br>
