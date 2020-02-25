@@ -148,7 +148,7 @@ Runeword145	Thunder																																															0
 Runeword146	Time																																															0
 Runeword147	Tradition																																															0
 Runeword148	Treachery	1		tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	5	15	ass		2	2	swing2		45	45	half-freeze		1	1	oskill	Mind Blast	1	1					0
-Runeword149	Trust																																															0
+Runeword149	Trust	1		knif	sorc								IoTir	r16	r03					ltngskill		3	3	cast2		35	35	oskill	Shiver Armor	3	3	skill	53	3	3	skill	69	4	4	mana		100	100					0
 Runeword150	Truth																																															0
 Runeword151	Unbending Will																																															0
 Runeword152	Valor																																															0
@@ -161,7 +161,7 @@ Runeword159	Water																																															0
 Runeword161	Whisper																																															0
 Runeword47	Widowmaker	1		swor	axe								EthTirLoMalRal	r05	r03	r28	r23	r08		dmg-dem/lvl	15			dmg		340	400	swing3		30	40	hit-skill	Venom	35	15	pierce-pois		20	25	ignore-ac		1	1	heal-kill		10	15	0
 Runeword163	Wind	1		mele										r29	r01					dmg%		120	160	swing2		40	40	move2		20	20	reduce-ac		50	50	hit-skill	245	10	9	charged	240	127	13	balance2		15	15	0
-Runeword164	Wings of Hope																																															0
+Runeword164	Wings of Hope	1		helm									RalOrtThul	r08	r09	r10				cast3		10	20	hp/lvl		8	16	mana		72	114	mag%		50	50	res-pois-len	0	75	75	skill	199	1	1					0
 Runeword99	Winter	1		swor	mace								LemKoElEld	r20	r18	r01	r02			dmg-demon		220	350	dmg-undead		280	300	dmg-cold		100	220	pierce-cold		24	24	hit-skill	Ice Blast	18	20	hit-skill	Frozen Orb	15	13	nofreeze		1	1	0
 Runeword165	Wisdom	1		shld	staf	wand							TalIth	r07	r06					ltngskill		2	2	str		10	10	dex		10	10	vit		10	10	res-fire		33	33	swing2		25	25					0
 Runeword166	Woe	1		staf	miss								HelKoHelEld	r15	r18	r15	r02			swing3		50	60	regen		4	4	crush		40	40	dmg%		200	260	aura	Resist Lightning	2	7	att-skill	Holy Bolt	25	21	dmg		25	50	0
