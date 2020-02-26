@@ -15,7 +15,7 @@ data\Global\Excel는 만들어 주면됨.
   <li><a href="https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt">skills</a></li>
 </ul>
 
-2020-02-26 생각난 김에.
+<h1>2020-02-26 생각난 김에.</h1><br>
 CubeMain(origin).txt 는 원본파일.<br>
 CubeMain(edit).txt 는 수정파일.<br>
 
