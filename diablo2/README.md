@@ -14,3 +14,10 @@ data\Global\Excel는 만들어 주면됨.
   <li><a href="http://classic.battle.net/diablo2exp/items/runewords.shtml"><strong>룬워드 규칙(Rune Word Rules)</strong></a></li>
   <li><a href="https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt">skills</a></li>
 </ul>
+
+2020-02-26 생각난 김에.
+CubeMain(origin).txt 는 원본파일.<br>
+CubeMain(edit).txt 는 수정파일.<br>
+
+큐빙 파일도 마찬가지로
+사용하고자 하는 큐빙 파일은 CubeMain 로 이름을 바꾸고 다음의 디아2설치 경로에 CubeMain.txt 파일로 저장.
