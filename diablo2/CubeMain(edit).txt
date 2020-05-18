@@ -150,6 +150,10 @@ r01 + gcv + tempered weapon -> +30-50 ar				100					3	weap,tmp	r01	gcv					useit
 Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+r09 + r14 + perfect topaz + basic set armor -> exceptional set armor 	1	1		100					4	armo,bas,set	r09	r14	gpy				useitem,mod,exc				levelreq			5	5																																																																															0
+r16 + r20 +  perfect topaz + exceptional set armor -> elite set armor 	1	1		100					4	armo,exc,set	r16	r20	gpy				useitem,mod,eli				levelreq			7	7																																																																															0
+r07 + r12 + perfect ruby+ basic set weapon -> exceptional set weapon	1	1		100					4	weap,bas,set	r07	r12	gpr				useitem,mod,exc				levelreq			5	5																																																																															0
+r15 + r21 + perfect ruby+ exceptional set weapon -> elite set weapon	1	1		100					4	weap,exc,set	r15	r21	gpr				useitem,mod,eli				levelreq			7	7																																																																															0
 1 rune 02 + 1 Chipped Skull + 1 Identify Scroll  -> 2 rune 01	1	1		100					3	r02	skc	isc					r01																													r01																																																										0
 1 rune 03 + 1 Chipped Skull + 1 Identify Scroll  -> 2 rune 02	1	1		100					3	r03	skc	isc					r02																													r02																																																										0
 1 rune 04 + 1 Chipped Skull + 1 Identify Scroll  -> 2 rune 03	1	1		100					3	r04	skc	isc					r03																													r03																																																										0
@@ -170,7 +174,7 @@ Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																								
 1 rune 19 + 1 Skull + 1 Identify Scroll  -> 2 rune 18	1	1		100					3	r19	sku	isc					r18																													r18																																																										0
 1 rune 20 + 1 Skull + 1 Identify Scroll  -> 2 rune 19	1	1		100					3	r20	sku	isc					r19																													r19																																																										0
 1 rune 21 + 1 Skull + 1 Identify Scroll  -> 2 rune 20	1	1		100					3	r21	sku	isc					r20																													r20																																																										0
-1 rune 22 + 1 Skull + 1 Identify Scroll  -> 2 rune 21	1	1		100					3	r22	sku	isc					r21																													r21																																																										0
+1 rune 22 + 1 Skull + 1 Identify Scroll  -> rune 21	1	1		100					3	r22	sku	isc					r21																																																																																							0
 1 rune 23 + 1 Flawless Skull + 1 Identify Scroll  -> rune 22	1	1		100					3	r23	skl	isc					r22																																																																																							0
 1 rune 24 + 1 Flawless Skull + 1 Identify Scroll  -> rune 23	1	1		100					3	r24	skl	isc					r23																																																																																							0
 1 rune 25 + 1 Flawless Skull + 1 Identify Scroll  -> rune 24	1	1		100					3	r25	skl	isc					r24																																																																																							0
