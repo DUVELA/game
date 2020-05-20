@@ -174,11 +174,11 @@ r15 + r21 + perfect ruby+ exceptional set weapon -> elite set weapon	1	1		100			
 1 rune 19 + 1 Skull + 1 Identify Scroll  -> 2 rune 18	1	1		100					3	r19	sku	isc					r18																													r18																																																										0
 1 rune 20 + 1 Skull + 1 Identify Scroll  -> 2 rune 19	1	1		100					3	r20	sku	isc					r19																													r19																																																										0
 1 rune 21 + 1 Skull + 1 Identify Scroll  -> 2 rune 20	1	1		100					3	r21	sku	isc					r20																													r20																																																										0
-1 rune 22 + 1 Skull + 1 Identify Scroll  -> 2 rune 21	1	1		100					3	r22	sku	isc					r21																													r21																																																										0
-1 rune 23 + 1 Flawless Skull + 1 Identify Scroll  -> 2 rune 22	1	1		100					3	r23	skl	isc					r22																													r22																																																										0
-1 rune 24 + 1 Flawless Skull + 1 Identify Scroll  -> 2 rune 23	1	1		100					3	r24	skl	isc					r23																													r23																																																										0
-1 rune 25 + 1 Flawless Skull + 1 Identify Scroll  -> 2 rune 24	1	1		100					3	r25	skl	isc					r24																													r24																																																										0
-1 rune 26 + 1 Flawless Skull + 1 Identify Scroll  -> 2 rune 25	1	1		100					3	r26	skl	isc					r25																													r25																																																										0
+1 rune 22 + 1 Skull + 1 Identify Scroll  -> rune 21	1	1		100					3	r22	sku	isc					r21																																																																																							0
+1 rune 23 + 1 Flawless Skull + 1 Identify Scroll  -> rune 22	1	1		100					3	r23	skl	isc					r22																																																																																							0
+1 rune 24 + 1 Flawless Skull + 1 Identify Scroll  -> rune 23	1	1		100					3	r24	skl	isc					r23																																																																																							0
+1 rune 25 + 1 Flawless Skull + 1 Identify Scroll  -> rune 24	1	1		100					3	r25	skl	isc					r24																																																																																							0
+1 rune 26 + 1 Flawless Skull + 1 Identify Scroll  -> rune 25	1	1		100					3	r26	skl	isc					r25																																																																																							0
 1 rune 27 + 1 Flawless Skull + 1 Identify Scroll  -> rune 26	1	1		100					3	r27	skl	isc					r26																																																																																							0
 1 rune 28 + 1 Flawless Skull + 1 Identify Scroll  -> rune 27	1	1		100					3	r28	skl	isc					r27																																																																																							0
 1 rune 29 + 1 Perfect Skull + 1 Identify Scroll  -> rune 28	1	1		100					3	r29	skz	isc					r28																																																																																							0
