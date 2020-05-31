@@ -30,7 +30,7 @@ Runeword106 Plague - complete
 Runeword169 Youth - complete, 아이템 타입, 룬 추가 변경, 메찬10-20, 라이프10-17, 매직 흡수 1-4, 라흡 1-4, 이속도증가 20-25, 패힛 20-25.
 Runeword153 Vengeance - complete, 공속20, 렙당 강타, 타운트1, 콜뎀, 내구력 1 회복 매 4초, 세파 14렙 80차지.
 Runeword156 Voice - complete, 에너지 10, 결빙감, 패힛25, 매직 흡수 1-4, 클레이골렘 1렙-3렙.
-Runeword165 Wisdom - complete, 룬, 라이트닝 스킬 2, 힘10, 민10, 생10, 파이어레지33, 공속25.
+Runeword165 Wisdom - complete, 아이템 타입 추가, 룬, 라이트닝 스킬 2, 힘10, 민10, 생10, 파이어레지33, 공속25.
 Runeword63 Jealousy - complete, 아이템 타입, 룬, 1스킬, 10달려, 10패캐, 15모저.
 Runeword166 Woe - complete, 아이템타입 수정, 룬, 공속 50-60, 데미지65, 강타 40, 증뎀200%-260%, 홀리볼트 25%	21렙,라흡4, 라레오라 2-7.
 
