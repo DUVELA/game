@@ -22,6 +22,7 @@ sorc -> 소서 오브(Sorceress Orbs)
 
 스킬: https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt
 렙당 공속옵션과 그 이후 넣은 옵션이 적용이 안됨.
+Runeword165 Wisdom 에 꽃잎의 fireskill을 생각하며 ltngskill을 넣어봤는데 적용 안됨. coldskill도 안됨.
 
 Runeword149 Trust - complete, 아이템 타입, 룬, 라이트닝스킬3, 패캐35, 쉬버아머 3, 체라4,마나100. 라깍은 안넣음.
 Runeword164 Wings of Hope - complete, 아이템 타입, 룬, 패캐 10 - 20,렙당피1-2, 마나 72 - 114, 매찬 50%, (중독시간 75%, 디아감옥1)
@@ -30,7 +31,7 @@ Runeword106 Plague - complete
 Runeword169 Youth - complete, 아이템 타입, 룬 추가 변경, 메찬10-20, 라이프10-17, 매직 흡수 1-4, 라흡 1-4, 이속도증가 20-25, 패힛 20-25.
 Runeword153 Vengeance - complete, 공속20, 렙당 강타, 타운트1, 콜뎀, 내구력 1 회복 매 4초, 세파 14렙 80차지.
 Runeword156 Voice - complete, 에너지 10, 결빙감, 패힛25, 매직 흡수 1-4, 클레이골렘 1렙-3렙.
-Runeword165 Wisdom - complete, 아이템 타입 추가, 룬, 라이트닝 스킬 2, 힘10, 민10, 생10, 파이어레지33, 공속25.
+Runeword165 Wisdom - 다시 제거.
 Runeword63 Jealousy - complete, 아이템 타입, 룬, 1스킬, 10달려, 10패캐, 15모저.
 Runeword166 Woe - complete, 아이템타입 수정, 룬, 공속 50-60, 데미지65, 강타 40, 증뎀200%-260%, 홀리볼트 25%	21렙,라흡4, 라레오라 2-7.
 
