@@ -22,7 +22,8 @@ sorc -> 소서 오브(Sorceress Orbs)
 
 스킬: https://github.com/fabd/diablo2/blob/master/code/d2_113_data/Skills.txt
 렙당 공속옵션과 그 이후 넣은 옵션이 적용이 안됨.
-Runeword165 Wisdom 에 꽃잎의 fireskill을 생각하며 ltngskill을 넣어봤는데 적용 안됨. coldskill도 안됨.
+Runeword165 Wisdom 에 꽃잎의 fireskill을 생각하며 ltngskill을 넣어봤는데 적용 안됨. coldskill, poisskill도 안됨.
+
 
 Runeword149 Trust - complete, 아이템 타입, 룬, 라이트닝스킬3, 패캐35, 쉬버아머 3, 체라4,마나100. 라깍은 안넣음.
 Runeword164 Wings of Hope - complete, 아이템 타입, 룬, 패캐 10 - 20,렙당피1-2, 마나 72 - 114, 매찬 50%, (중독시간 75%, 디아감옥1)
