@@ -39,3 +39,11 @@ POD + PlugY를 하려고 하면서
 <h1>2020-06-01</h1>
 꽃잎 처럼 원소스킬 + 가 될 줄 알았는데 안됨.
 그리고 지금 에러나서 싱글 캐릭이 안들어가져서 삭제 후 다시 설치함. - 게임 연 상태에서 룬워드를 수정해서 에러가 난듯.
+
+<h1>2020-06-02</h1><br>
+원소스킬 + 추가.<br>
+이름: 'to Cold Skills', ' to Lightning Skills'<br>
+기존 .tbl 파일꺼 그대로 사용.<br>
+옵션 추가를 위해 수정한 파일: Properties(edit), ItemStatCost(edit)<br>
+설치경로: ..\data\Global\Excel<br>
+Skills 파일은 콜드, 라이트닝 마스터리 EType 수정때문에
