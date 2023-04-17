@@ -1,0 +1,112 @@
+/* Place your CSS styles in this file */
+body,
+html {
+    background-color: #292725;
+    border-color: #d6ddc8;
+    color: #e8e6e3;
+}
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+table,
+td,
+th {
+    border: 1px solid black;
+}
+tr {
+    height: 60px;
+}
+
+/* hover img below */
+.boss {
+  position: relative;
+  border-collapse: collapse;
+  width: 186px;
+}
+
+td:hover .image-1 {
+  display: block;
+}
+
+.boss .image-1 {
+  display: none;
+  position: absolute;
+  top: 60px;
+  left: -112px;
+  opacity: 0.8;
+}
+/* hover img above */
+th.character {
+    border-collapse: collapse;
+    width: 175px;
+
+}
+
+.travelPoint {
+    border-collapse: collapse;
+    width: 120px;
+    text-align: center;
+}
+
+td.caster {
+    background-image: url("https://d2q63o9r0h0ohi.cloudfront.net/images/card-gallery/icon_role_caster-4bc181a9a41fad77745b2dff4b5ad5c2af840f4ea36b6b8016857ebbb9b0b24c34b4e78b01c88a95a17f5606f96b11f4155dc48bbdc8dff5596683a4d6b1a595.png");
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    background-position: center;
+    padding: 20px;
+    background-color: #cccccc;
+    width: 18px;
+}
+
+td.fighter {
+    background-image: url("https://d2q63o9r0h0ohi.cloudfront.net/images/card-gallery/icon_role_fighter-a384a4c7823faf1d3c682696e9f1476976ce8432405657996b06c2c44c61308f4b22d4cca774cd0fdb6a7d3bf1b30f8ff43ac91d8d9c601945af60948e60089e.png");
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    background-position: center;
+    padding: 20px;
+    background-color: #cccccc;
+    width: 18px;
+}
+
+td.protector {
+    background-image: url("https://d2q63o9r0h0ohi.cloudfront.net/images/card-gallery/icon_role_protector-b77c0007ebfdff0bbcb1c95b837e8fd10de1185cedc8b413c88cf553f14579e0cd5cc5a9c3fd889bbbd650f9c1352417332de6ef175c24608ef9367ae9fb4cb1.png");
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    background-position: center;
+    padding: 20px;
+    background-color: #cccccc;
+    width: 18px;
+}
+
+.pve{
+    padding: 0px 12px 0px 12px;
+}
+
+/* menu bar below */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    width: 48px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+/* menubar above */
