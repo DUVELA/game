@@ -2,7 +2,7 @@
 <ul>
 <li>듀랑고</li>
 <li>Diablo2</li>
-<li>하스스톤 용병단</li>
+  <li><a href="https://hearthstone.blizzard.com/ko-kr/news/23699737" target=_blank>하스스톤 용병단</a></li>
 </ul>
 <p>듀랑고는<br>
 ※ 다운로드 가능 기간 : 2020년 1월 15일(수) ~ 2021년 1월 14일(목) 이라고 한다.<br>
